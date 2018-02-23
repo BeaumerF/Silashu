@@ -14,9 +14,9 @@
 2. put some search links (google for example)
 3. put an empty line to say you have finished
 
-Think about closing the .xlsx before each start of the script.
-Start the script delete the last .xlsx if you didn't change the name.
-Do not misuse, websites can block you (proxy is the solution).
+- Think about closing the .xlsx before each start of the script.
+- Start the script delete the last .xlsx if you didn't change the name.
+- Do not misuse, websites can block you (proxy is the solution).
 
 ## Can I help you?
 Of course ! By hitting the :star: button !
