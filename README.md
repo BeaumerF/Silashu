@@ -1,4 +1,4 @@
-![logo](./Silashu/Assets/silashu.png)
+![logo](./Silashu/Assets/silashu500px.png)
 
 # Silashu
 1. Crawl Search Pages
