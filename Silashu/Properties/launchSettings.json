@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EmailScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "oui"
+    },
+    "newProfile1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.bing.com/search?q=%22L%27h%C3%A9bergement+est+assur%C3%A9+par+PagesJaunes%22+constructeur+maison&qs=n&form=QBRE&sp=-1&pq=%22l%27h%C3%A9bergement+est+assur%C3%A9+par+pagesjaunes%22+constructeur+&sc=0-56&sk=&cvid=B20FCB6D24924870BA923E2166DDAA47"
+    }
+  }
+}
