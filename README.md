@@ -10,7 +10,7 @@ Crawl Search Pages, Web scrap emails on each link, Get spreadsheet
   - Powershell
   
 ## How to use it ?
-0. install [.Net Core](url=https://www.microsoft.com/net/learn/get-started/windows)
+0. install [.Net Core](https://www.microsoft.com/net/learn/get-started/windows)
 1. Deploy the project
 2. right click on "Scrap-winx64.ps1" then "Execute with Powershell".
 3. put some search links (google for example)
