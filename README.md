@@ -1,20 +1,21 @@
 ![logo](./Silashu/Assets/silashu500px.png)
 
 # Silashu
-1. Crawl Search Pages
-2. Web scrap emails on each link
-3. Get spreadsheet
+Crawl Search Pages, Web scrap emails on each link, Get spreadsheet
 
 ## What does it use?
   - .Net Core
-  - Html Agility Pack (web scraping)
+  - Html Agility Pack (Crawling, web scraping)
   - EPPlus (spreadsheet)
+  - Powershell
   
 ## How to use it ?
 0. install [.Net Core](url=https://www.microsoft.com/net/learn/get-started/windows)
-1. rick click on "Scrap-winx64.ps1" then "Execute with Powershell".
+1. right click on "Scrap-winx64.ps1" then "Execute with Powershell".
 2. put some search links (google for example)
 3. put an empty line to say you have finished
+
+#### ⚠️ Be careful
 
 - Think about closing the .xlsx before each start of the script.
 - Start the script delete the last .xlsx if you didn't change the name.
